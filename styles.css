@@ -291,7 +291,7 @@ footer{
 /*MOBILE xsmall < 420PX */
 @media (max-width:420px) {
     header {
-        background: rgb(160, 157, 196);
+        background: rgb(162, 210, 30);
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -308,8 +308,26 @@ footer{
         display: none;
     }
 
+
+
+
+
+    .contenido {
+        box-sizing: border-box;
+        width: 90%;
+        
+    }
+
+
+
+
+
+
+
+   
+
     aside{
-        background: rgb(226, 127, 235);
+        background: rgb(162, 210, 30);
         
     }
 
